@@ -1,0 +1,9 @@
+
+# My configuration file
+
+# Here are some important parameters
+PI=3.14159  #circumference of a circle
+E=2.71828 # Base of the natural logarithm
+# The output file is given below
+INDEX_FILE = ./data/index.txt  #odksoks oeiesuehs
+OUTPUT_FILE = data/output.txt  #mdskodskd kosdok meuzovo crl

@@ -1,0 +1,6 @@
+#This is the configuration file for the main program.
+
+INDEX_FILE = ./data/output.txt
+
+RESTART_PROBABILITY = 0.15
+STEP_NUMBER = 30
